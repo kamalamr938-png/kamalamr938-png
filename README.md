@@ -1,18 +1,18 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Kamal amr] 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Front-End Developer · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
+💼 **Current:** Front-End Developer 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kamal amr&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I am a Front-End Developer skilled in React, Next.js, WordPress, PHP, and more. <br/>
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
@@ -36,13 +36,13 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal amr&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/kamal amr?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
@@ -50,9 +50,9 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kamal amr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalamr).
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kamalamr)
 
 </div>
